@@ -147,7 +147,7 @@ article:
       # ----------------
       # 打赏组件 (for layout: post)
       donate:
-        enable: false
+        enable: true
         images:
           - https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
           - https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
